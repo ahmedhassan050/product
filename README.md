@@ -3,9 +3,9 @@
 A new Flutter project.
 ## 📱 Project Preview
 
-![Project Screenshot](project.png)
+<p align="center">
+  <img src="project.png" width="300">
 </p>
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
