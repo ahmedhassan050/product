@@ -1,18 +1,17 @@
-import 'package:project1/screens.dart';
 import 'package:flutter/material.dart';
+import 'product_details.dart';
 
 void main() {
-  runApp(const MyProfile());
+  runApp(ProductDetails());
 }
-
-class MyProfile extends StatelessWidget {
-  const MyProfile({super.key});
+class ProductDetails extends StatelessWidget {
+  const ProductDetails({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: const ProfilePage(),
+        debugShowCheckedModeBanner: false,
+      home: ProductScreen()
     );
   }
 }
