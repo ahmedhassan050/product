@@ -1,6 +1,11 @@
 # project1
 
 A new Flutter project.
+## 📱 Project Preview
+
+<p align="center">
+  <img src="project.png" width="300">
+</p>
 
 ## Getting Started
 
